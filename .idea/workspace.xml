@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6dfcb77-68f2-4962-8d40-ab0e29ade12c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assests/shopping-bag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569936331035</updated>
-      <workItem from="1569936332221" duration="27672000" />
+      <workItem from="1569936332221" duration="32698000" />
     </task>
     <task id="LOCAL-00001" summary="created project with create react app and added files for homepage.">
       <created>1569937510118</created>
@@ -138,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570071753916</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updating our app to redirect to home if user is signed in&quot;">
+      <created>1570072134859</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570072134859</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +176,7 @@
     <MESSAGE value="Implemented firebase utils, included ability to store authenticated users in our firestore database." />
     <MESSAGE value="Finishing sign in handleSubmit method" />
     <MESSAGE value="Added Redux and implemented User Reducer and User Actions to Header and App Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Redux and implemented User Reducer and User Actions to Header and App Component" />
+    <MESSAGE value="Updating our app to redirect to home if user is signed in&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating our app to redirect to home if user is signed in&quot;" />
   </component>
 </project>
