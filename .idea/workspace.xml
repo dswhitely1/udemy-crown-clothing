@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6dfcb77-68f2-4962-8d40-ab0e29ade12c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.selectors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569936331035</updated>
       <workItem from="1569936332221" duration="37984000" />
-      <workItem from="1570188319696" duration="263000" />
+      <workItem from="1570188319696" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="created project with create react app and added files for homepage.">
       <created>1569937510118</created>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570131397275</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Created Cart-Item Component and connected our cart dropdown with cartItems reducer">
+      <created>1570188756266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570188756266</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +203,7 @@
     <MESSAGE value="Updating our app to redirect to home if user is signed in&quot;" />
     <MESSAGE value="Added Cart Icon and CartDrop down components to our application, implemented Cart Reducer" />
     <MESSAGE value="Updated Shop Data with new data, updated cart utils to group items in cart reducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Shop Data with new data, updated cart utils to group items in cart reducer" />
+    <MESSAGE value="Created Cart-Item Component and connected our cart dropdown with cartItems reducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Cart-Item Component and connected our cart dropdown with cartItems reducer" />
   </component>
 </project>
